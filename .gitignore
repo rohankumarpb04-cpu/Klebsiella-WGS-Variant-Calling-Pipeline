@@ -1,0 +1,31 @@
+# Raw sequencing files
+*.fastq
+*.fastq.gz
+
+# Alignment files
+*.sam
+*.bam
+*.bai
+
+# Variant files
+*.vcf.gz
+*.csi
+
+# Reference indexes
+*.fai
+*.amb
+*.ann
+*.bwt
+*.pac
+*.sa
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+cache/
+
+# Operating system files
+.DS_Store
+Thumbs.db
