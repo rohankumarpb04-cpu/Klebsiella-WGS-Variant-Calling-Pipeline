@@ -1,0 +1,14 @@
+==========================================
+Klebsiella pneumoniae Variant Analysis
+==========================================
+
+Sample          Total_Variants  High+Moderate       
+--------------------------------------------------------------
+SRR39683479     32542           5350                
+SRR39683478     32437           5335                
+SRR39683470     32903           5347                
+SRR39683469     32432           5295                
+SRR39683468     32261           5291                
+
+Pipeline completed successfully.
+Generated on: Mon Aug  3 03:55:30 UTC 2026

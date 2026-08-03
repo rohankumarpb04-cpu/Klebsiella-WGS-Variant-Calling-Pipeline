@@ -1,4 +1,3 @@
-# Klebsiella-WGS-Variant-Calling-Pipeline
 # 🧬 Klebsiella pneumoniae Whole Genome Sequencing (WGS) Variant Calling Pipeline
 
 ## 📖 Overview
